@@ -1,0 +1,20 @@
+{
+  "name": "fiesc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@reportportal/agent-js-cypress": "^5.5.0",
+    "cypress": "^14.4.1"
+  }
+}

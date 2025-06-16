@@ -1,5 +1,6 @@
-node app.js
-npx cypress run
+How to run:
+1. node app.js
+2. npx cypress run
 
 Default
 Username: default
