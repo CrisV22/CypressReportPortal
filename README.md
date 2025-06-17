@@ -1,6 +1,7 @@
 How to run:
-1. node app.js
-2. npx cypress run
+1. docker-compose up
+2. node app.js
+3. npx cypress run
 
 Default
 Username: default
